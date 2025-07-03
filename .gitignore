@@ -1,0 +1,14 @@
+venv/# Byte-compiled / optimized / DLL files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# PyInstaller
+dist/
+build/
+
+# Virtual environment
+venv/
+.venv/
+myenv/
